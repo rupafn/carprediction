@@ -78,3 +78,4 @@ webencodings==0.5.1
 Werkzeug==1.0.1
 widgetsnbextension==3.5.1
 zipp @ file:///tmp/build/80754af9/zipp_1602002379921/work
+gunicorn
