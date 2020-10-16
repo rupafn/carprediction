@@ -1,2 +1,7 @@
-1. Create new environment (carprediction)
-2. 
+When deploying heroku
+
+1. Create Procfile and insert  => web: gunicorn app:app
+which is the first file to exceute
+app:app (filename : flaskappname (variable inside flask app.py))
+
+2. Create requirements.txt
